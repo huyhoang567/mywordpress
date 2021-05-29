@@ -3808,7 +3808,7 @@ ul.pricing-table:after,
 	color: inherit;
 }
 #sidebar .shuttle_widget_twitterfeed .tweet-content {
-	background: url('images/widgets/twitter-bird-light-bgs.png') 2px 5px no-repeat;
+	background: url('/wp-content/themes/shuttle/images/widgets/twitter-bird-light-bgs.png') 2px 5px no-repeat;
 	background-size: 40px;
 }
 
@@ -3817,7 +3817,7 @@ ul.pricing-table:after,
 	padding: 0 0 0 45px;
 }
 #footer .shuttle_widget_twitterfeed .tweet-content {
-	background: url('images/widgets/twitter-bird-light-bgs.png') -8px -5px no-repeat;
+	background: url('/wp-content/themes/shuttle/images/widgets/twitter-bird-light-bgs.png') -8px -5px no-repeat;
 	background-size: 40px;
 }
 #footer .shuttle_widget_twitterfeed small {
@@ -3833,7 +3833,7 @@ ul.pricing-table:after,
 	padding: 0 55px 0 0;
 }
 #sub-footer .shuttle_widget_twitterfeed .tweet-content {
-	background: url('images/widgets/twitter-bird-dark-bgs.png') right -5px no-repeat;
+	background: url('/wp-content/themes/shuttle/images/widgets/twitter-bird-dark-bgs.png') right -5px no-repeat;
 	background-size: 40px
 }
 #sub-footer .shuttle_widget_twitterfeed ul {
